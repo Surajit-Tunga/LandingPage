@@ -9,7 +9,7 @@ const HeroSec = () => {
             <span className="bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text"> Landing Page</span> 
           </h1>
           <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl tracking-wide">
-            Made with React & Tailwind CSS. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum commodi voluptatem eligendi laudantium! Rerum tenetur quisquam ipsum libero quia illum.
+            Made with React & Tailwind CSS. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus, vel!
           </p>
        </div>
     
