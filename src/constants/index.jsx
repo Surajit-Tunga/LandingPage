@@ -61,7 +61,7 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "Drag-and-Drop Interfac",
     description:
       "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
   },
