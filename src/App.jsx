@@ -1,6 +1,7 @@
 import Feature from "./components/Feature";
 import HeroSec from "./components/HeroSec";
 import Nav from "./components/Nav";
+import Price from "./components/Price";
 
 
 const App = () => {
@@ -11,6 +12,7 @@ const App = () => {
        <HeroSec/>
      </div>
      <Feature/>
+     <Price/>
     </>
   );
 }
