@@ -40,12 +40,12 @@ const Nav= () => {
             </div>
             {mobileDrawerOpen && (
                 <div className="fixed right-0 z-20 bg-neutral-900 w-full p-12 flex flex-col justify-center lg:hidden">
-                    <ul className=" items-center"> 
+                    <ul className="flex flex-col items-center"> 
                        <li className="py-3">Home</li>
                        <li className="py-3">About</li>
                        <li className="py-3">Services</li>
                        <li className="py-3">Contact US</li>
-                    </ul> // fix allignment
+                    </ul> 
                     <div className="flex space-x-6">
                         <a href="#" className="py-2 px-3  border rounded-md">
                         Sign In
