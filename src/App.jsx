@@ -1,4 +1,5 @@
 import Feature from "./components/Feature";
+import Footer from "./components/Footer";
 import HeroSec from "./components/HeroSec";
 import Nav from "./components/Nav";
 import Price from "./components/Price";
@@ -13,6 +14,7 @@ const App = () => {
      </div>
      <Feature/>
      <Price/>
+     <Footer/>
     </>
   );
 }
